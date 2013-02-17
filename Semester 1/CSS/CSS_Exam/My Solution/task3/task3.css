@@ -1,0 +1,176 @@
+/* Clear all */
+body
+hgroup,
+h1, h2, h3 {
+	/* margin and padding */
+	margin: 0px;
+	padding: 0px;
+}
+
+/* body */
+body {
+	margin: 0;
+	padding: 20px;
+	padding-left: 22px;
+	
+	
+	/* display width */
+	width: 920px;
+	
+	/* Default fonts */
+	font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+	font-size: 16px;
+
+
+}
+
+/* For each section */
+#wrapper > div {
+	/* margin and padding */
+	margin-left: -2px;
+	padding: 5px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+	
+	/* width and height*/
+	width: 138px;
+	/* height - look at the next two selectors! */
+	
+	/* position */
+	display: inline-block;
+	position: relative;
+	float: left;
+	
+	/* border */
+	border: 2px solid lightgrey;
+}
+
+#wrapper > div:nth-child(odd) {
+	height: 245px;
+	
+	/* background */
+	background: white;
+}
+
+#wrapper > div:nth-child(even) {
+	/* width and height */
+	height: 265px;
+	
+	/* background */
+	background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(241, 242, 243));
+}
+
+/* Section headers */
+#wrapper div:nth-child(1) hgroup{
+	/* Content image*/
+	background:url('imgs/install.png');
+	width: 36px;
+	height: 36px;
+}
+
+#wrapper div:nth-child(2) hgroup{
+	/* Content image*/
+	background: black;
+	background:url('imgs/tuneUp.png');
+	width: 36px;
+	height: 36px;
+}
+
+#wrapper div:nth-child(3) hgroup {
+	/* Content image*/
+	background:url('imgs/manage.png');
+	width: 36px;
+	height: 36px;
+}
+
+#wrapper div:nth-child(4) hgroup {
+	/* Content image*/
+	background:url('imgs/openSource.png');
+	width: 36px;
+	height: 36px;
+}
+
+#wrapper div:nth-child(5) hgroup {
+	/* Content image*/
+	background:url('imgs/twitter.png');
+	width: 36px;
+	height: 36px;
+}
+
+#wrapper div:nth-child(6) hgroup {
+	/* Content image*/
+	background:url('imgs/about.png');
+	width: 36px;
+	height: 36px;
+}
+
+h1, h2, h3 {
+	/* position */
+	position: absolute;
+	top:10px;
+	left: 44px;
+
+	/* text and font */
+	font-size: 1em;
+}
+
+h2 {
+	/* position */
+	top: 30px;
+}
+
+
+/* Main text */
+div p {
+	/* Clear default padding and margin */
+	-webkit-margin-before:: 0;
+	-webkit-margin-after: 0px;
+	
+	/* margin and padding */
+	margin-top: 15px;
+	margin-left: -1px;
+}
+
+/* Links */
+a {
+	/* margin and padding */
+	margin-left: -1px;
+	
+	/* position */
+	display: block;
+	
+	/* text and font */
+	color: rgb(199, 45, 47);
+	text-decoration: none;
+}
+
+a:first-child {
+	/* margin and padding */
+	padding-top: 5px;
+}
+
+a > span {
+	text-transform:uppercase;
+}
+
+/* The YellowBox */
+.yellowBox {
+	/* margin and padding */
+	margin-left: -1px;
+	
+	
+	/* background */
+	background: rgb(255, 255, 221);
+	
+	/* border */
+	border: 1px solid yellow;
+	
+}
+
+.yellowBox > a {
+	/* margin and padding */
+	margin-left: 0px;
+	
+	/* position */
+	display: inline;
+}

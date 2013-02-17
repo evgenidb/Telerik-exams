@@ -1,0 +1,90 @@
+﻿/* clear all */
+#wrapper, h1 {
+	/* margin and padding */
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* wrapper */
+#wrapper {
+	/* margin and padding */
+	margin-top: 25px;
+	margin-left: 17px;
+	padding: 35px;
+	
+	/* background */
+	background: -webkit-linear-gradient(rgb(222, 40, 255) 15%, rgb(249, 219, 255) 75%);
+	
+	/* border */
+	border: 1px solid black;
+	border-radius: 15px;
+	
+	/* width and height*/
+	width: 863px;
+	
+	
+	/* text and font */
+	font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+	font-size: 16px;
+	color: black;
+}
+
+/* header */
+h1 {
+	/* margin and padding */
+	margin-top: -20px;
+	margin-bottom: 5px;
+	
+	/* text and font */
+	font-size: 1.8em;
+}
+
+/* arrows */
+.left-arrow, .right-arrow {
+	/* position */
+	position: relative;
+	top: 64px;
+}
+
+.left-arrow {
+	/* margin and padding */
+	margin: -35px;
+	
+	
+	/* position */
+	float: left;
+}
+
+.right-arrow {
+	/* margin and padding */
+	margin: -35px;
+	
+	/* position */
+	float: right;
+}
+
+/* postedby */
+.postedby {
+	/* margin and padding */
+	margin: 15px;
+	margin-top: 0px;
+	padding: 5px 15px;
+	
+	/* width and height */
+	width: 366px;
+	
+	/* border */
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+/* Main text */
+.info {
+	/*margin and padding */
+	margin-top: 21px;
+	margin-bottom: -4px;
+	
+	/* text and font */
+	text-align: justify;
+}

@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\ConsoleJustification\bin\Debug\ConsoleJustification.exe.config
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\ConsoleJustification\bin\Debug\ConsoleJustification.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\ConsoleJustification\bin\Debug\ConsoleJustification.pdb
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\ConsoleJustification\obj\Debug\ConsoleJustification.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\ConsoleJustification\obj\Debug\ConsoleJustification.pdb

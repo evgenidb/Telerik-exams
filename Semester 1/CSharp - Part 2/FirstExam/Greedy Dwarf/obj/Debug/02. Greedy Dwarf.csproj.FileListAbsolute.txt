@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\Greedy Dwarf\bin\Debug\Greedy Dwarf.exe.config
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\Greedy Dwarf\bin\Debug\Greedy Dwarf.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\Greedy Dwarf\bin\Debug\Greedy Dwarf.pdb
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\Greedy Dwarf\obj\Debug\Greedy Dwarf.exe
+C:\Users\student\Desktop\Student Files\Evgeni Exam\FirstExam\Greedy Dwarf\obj\Debug\Greedy Dwarf.pdb

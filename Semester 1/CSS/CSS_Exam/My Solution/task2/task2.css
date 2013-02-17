@@ -1,0 +1,101 @@
+﻿/* Clear all */
+body {
+	margin: 0;
+	padding: 0;
+	
+	/* display width */
+	width: 730px;
+	
+	/* Default fonts */
+	font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+	font-size: 16px;
+
+}
+
+/* Wrapper div */
+#wrapper {
+	/* margin and padding */
+	margin: 15px;
+	padding: 10px;
+	
+	/* background */
+	background: rgb(204, 204, 204);
+	
+	/* border */
+	border-radius: 5px;
+}
+
+/* Main Image */
+.holder img {
+	/* width and height */
+	width: 550px;
+	height: 414px;
+	
+	/* border */
+	border-radius: 5px;
+}
+
+/* Playlist */
+.playlist {
+	/* position */
+	position: absolute;
+	display: block;
+	float: right;
+	
+	top: 0px;
+	left: 550px;
+}
+
+.playlist ul{
+	/* display */
+	padding-top: 9px;
+	
+	/* list decoration */
+	list-style-type: none;
+}
+
+.playlist ul li {
+	/* margin and padding */
+	margin-left: -5px;
+	padding: 5px;
+	padding-right:2px;
+	
+	/* border */
+	border-bottom: 1px solid black;
+}
+
+.playlist  ul  li  a  img {
+	/* margin and padding */
+	margin-left: 12px;
+	
+	/* display */
+	display: block;
+	
+	/* width and height */
+	width: 92px;
+	height: 70px;
+	
+	/* border */
+	border-radius: 10px;
+}
+
+.playlist  ul  li  a  span {
+	/* margin and padding */
+	margin-left: 3px;
+
+	/* display */
+	display: block;
+}
+
+
+/* Text Links in the playlist */
+a {
+	/* text and font */
+	text-decoration:none;
+	font-weight: bolder;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
